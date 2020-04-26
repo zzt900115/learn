@@ -1,2 +1,7 @@
 /learn.iml
-/.idea/
+/.idea/*
+
+/.idea/compiler.xml
+/.idea/encodings.xml
+/.idea/misc.xml
+/.idea/vcs.xml
